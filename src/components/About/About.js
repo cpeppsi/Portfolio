@@ -10,7 +10,7 @@ const About = () => {
         <div className={styles.text}>
           <h2>About Me</h2>
           <p>
-            Hello! I'm Casey Epps, a passionate Software Developer with experience in building web applications using modern technologies like React, JavaScript, and CSS. I enjoy creating efficient and scalable solutions, and I'm always eager to learn and take on new challenges.
+            Hello world! I'm Casey Epps, a passionate Software Developer with experience in building web applications using modern technologies like React, JavaScript, and CSS. I enjoy creating efficient and scalable solutions, and I'm always eager to learn and take on new challenges.
           </p>
         </div>
       </div>
